@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulbradish
-- 👀 I’m interested in digital marketing and data analytics
-- 🌱 I’m currently learning fractal design and generative art
+- 👀 I work in digital marketing and data analytics
+- 🌱 I enjoy generative and experimental art
 - 💞️ I’m looking to collaborate on wordlists
 - 📫 Reach me here
 
