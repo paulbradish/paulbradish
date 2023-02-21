@@ -5,7 +5,8 @@
   <a href="https://www.linkedin.com/in/paulbradish/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://www.twitter.com/in/paulbradish/](https://twitter.com/paul_bradish">
+  
+  <a href="https://twitter.com/paul_bradish">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/paul_bradish?style=social">
   </a>
 <br />
