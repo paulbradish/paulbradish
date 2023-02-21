@@ -1,5 +1,4 @@
 <h1 align="center">Hello world! 👋 I'm Paul 👨‍💻</h1>
-<p align="center"><strong>Digital Marketing Manager https://www.emergentsoftware.net/</strong></p>
 
 <p align='center'>
   
