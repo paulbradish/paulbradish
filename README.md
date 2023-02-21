@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/paulbradish/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+   <a href="https://www.twitter.com/in/paulbradish/](https://twitter.com/paul_bradish">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/paul_bradish?style=social">
+  </a>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulbradish&theme=dark&show_icons=true" />
