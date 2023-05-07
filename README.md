@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! 👋 I'm Paul 👨‍💻</h1>
+<h1 align="center">Paul Bradish</h1>
 
 <p align='center'>
   
